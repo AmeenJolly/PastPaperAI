@@ -1,8 +1,30 @@
 # PastPaperAI
-Utilising LLMs and AI models to generate similar questions and answers based on existing past papers. Although resources like this already exist, they do not go into a deeper level and consider specific exam boards, and the relevant wording associated with such exam boards. This is currently a work in progress with an unspecified timeline.
 
-Includes : AQA, Edexcel, OCR
-All new content generated are simply predictions, it is a predictive model and does not guarantee confluence with the relevant examination board.
+## About
+AI Powered exam board aware revision generation platform designed to create original style exam questions, mark schemes and model answers that align with UK examination standards.
+Built (mostly) using LLMs in tandem with educational data analysis to allow for real time iteration and improvements.
 
+## Core Features
+- Exam Board Aware question generation
+- Mark scheme and Examiner style feedback generation
+- Topic focused revision workflows
+- Command word sensitive prompting
+- Planned curriculum analytics
+
+## Supported Exam Boards
+- AQA
+- Edexcel
+- OCR
+- (WJEC To Be Implemented)
+
+## Tech Stack
+- Python
+- Streamlit
+- Open API (Planned)
+- NLP/LLM Pipelines
+
+## Discretion
 Note : PastPaperAI generates original revision content only. It does not guarantee future exam questions or claim affiliation with AQA, Edexcel or OCR.
+
+## Preview
 <img width="1443" height="1090" alt="PastPaperAI_Preview" src="https://github.com/user-attachments/assets/7584a36e-136e-40f9-91d1-34755a72bcec" />
