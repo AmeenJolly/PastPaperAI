@@ -3,3 +3,5 @@ Utilising LLMs and AI models to generate similar questions and answers based on 
 
 Includes : AQA, Edexcel, OCR
 All new content generated are simply predictions, it is a predictive model and does not guarantee confluence with the relevant examination board.
+
+Note : PastPaperAI generates original revision content only. It does not guarantee future exam questions or claim affiliation with AQA, Edexcel or OCR.
