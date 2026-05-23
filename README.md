@@ -14,8 +14,7 @@ Built (mostly) using LLMs in tandem with educational data analysis to allow for 
 ## Supported Exam Boards
 - AQA
 - Edexcel
-- OCR
-- (WJEC To Be Implemented)
+- (OCR & WJEC To Be Implemented)
 
 ## Tech Stack
 - Python
